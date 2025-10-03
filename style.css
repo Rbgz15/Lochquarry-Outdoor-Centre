@@ -1,0 +1,93 @@
+body{background-color:green}
+
+
+
+.fjalla-one-regular {
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  font-size: 30;
+}
+
+
+.h2luckiest-guy-regular {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  font-size: 40;
+}
+a{ display: inline; text-align: center; }
+
+.luckiest-guy-regular {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  font-size: 70;
+}
+
+
+.landluckiest-guy-regular{
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  font-size: 40;
+}
+.pluckiest-guy-regular{
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  font-size: 40;
+}
+.waterluckiest-guy-regular{
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  font-size: 40;
+ 
+}
+.ropeluckiest-guy-regular{
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  font-size: 40;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+ol{font-family:Calibri; font-size:12px; color:white;}
+#firstsection{background-color:lightblue;}
+#secondsection{background-color:white;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
